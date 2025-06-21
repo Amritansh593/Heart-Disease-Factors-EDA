@@ -1,0 +1,1 @@
+This project analyzes the data set which is also uploaded ,performs Exploratory Data Analysis and implements ML Classification Algorithms such as Logistic Regression, K Neighbors ,Random Forest Classifier etc. and it also compares the accuracy score of all the algorithms and hence we get the most efficient algorithm for this data set.
